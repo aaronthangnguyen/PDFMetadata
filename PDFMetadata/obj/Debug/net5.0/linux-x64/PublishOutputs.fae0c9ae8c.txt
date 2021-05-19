@@ -1,0 +1,2 @@
+/Users/aaron/learn-csharp/PDFMetadata/PDFMetadata/bin/Debug/net5.0/linux-x64/publish/PDFMetadata.pdb
+/Users/aaron/learn-csharp/PDFMetadata/PDFMetadata/bin/Debug/net5.0/linux-x64/publish/PDFMetadata

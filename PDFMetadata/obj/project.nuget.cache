@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "gUm9bA947rmYgLzuQhFniKFWQQ3qvJBQg+quzvNpEDvM10nYsf1VPfB7fxORRWvum/V6vk2pFGGxd2XbJBr7eg==",
+  "success": true,
+  "projectFilePath": "/Users/aaron/learn-csharp/PDFMetadata/PDFMetadata/PDFMetadata.csproj",
+  "expectedPackageFiles": [
+    "/Users/aaron/.nuget/packages/pdfsharpcore/1.2.11/pdfsharpcore.1.2.11.nupkg.sha512",
+    "/Users/aaron/.nuget/packages/sixlabors.fonts/1.0.0-beta0013/sixlabors.fonts.1.0.0-beta0013.nupkg.sha512",
+    "/Users/aaron/.nuget/packages/sixlabors.imagesharp/1.0.0/sixlabors.imagesharp.1.0.0.nupkg.sha512",
+    "/Users/aaron/.nuget/packages/system.numerics.vectors/4.5.0/system.numerics.vectors.4.5.0.nupkg.sha512",
+    "/Users/aaron/.nuget/packages/system.runtime.compilerservices.unsafe/4.7.0/system.runtime.compilerservices.unsafe.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}

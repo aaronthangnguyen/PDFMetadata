@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PDFMetadata", "PDFMetadata\PDFMetadata.csproj", "{F151AD00-0888-4ED1-8B1A-DE0735C9D693}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F151AD00-0888-4ED1-8B1A-DE0735C9D693}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F151AD00-0888-4ED1-8B1A-DE0735C9D693}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F151AD00-0888-4ED1-8B1A-DE0735C9D693}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F151AD00-0888-4ED1-8B1A-DE0735C9D693}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
